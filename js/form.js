@@ -51,8 +51,6 @@ class Form{
             var playerInfoRef = database.ref('players');
             playerInfoRef.remove();
 
-            
-        });
         });
 
     }
